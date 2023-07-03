@@ -1,0 +1,31 @@
+body {
+    /* background-color: orange; */
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 50px auto;
+    background-color: rgb(124, 229, 129);
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px 10px 40px 10px;
+    color: white;
+}
+
+.inner-contain {
+    text-align: center;
+}
+
+#add {
+    padding: 7px 20px 7px 20px;
+    border-radius: 10px;
+    width: 70px;
+    margin-top: 20px;
+    border: 0;
+}
+
+#fill {
+    padding: 10px;
+    border-radius: 10px;
+    border: 0;
+}
